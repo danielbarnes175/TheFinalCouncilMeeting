@@ -1,0 +1,27 @@
+:: diplomacy
+You send envoys to foreign nations, seeking trade and aid. Some are skeptical of your legitimacy. 
+
+One nation is willing to help—but in exchange, they demand control over a key district in the city. 
+
+The council is divided. Accepting aid could restore order, but at the cost of sovereignty. 
+
+What will you do? 
+
+• [[Accept the deal and restore stability|accept_deal]]  
+• [[Reject the offer and find another way|reject_deal]]  
+
+:: accept_deal
+The foreign power establishes an enclave in the city, bringing food and resources. 
+
+The crisis is over—but you wonder if you've simply traded one ruler for another. 
+
+[[ending]]
+
+:: reject_deal
+Without outside support, the city teeters on collapse. The revolutionaries gain strength. 
+
+Soon, they march on the council chambers. The doors shatter. 
+
+Your rule is over. 
+
+[[ending]]

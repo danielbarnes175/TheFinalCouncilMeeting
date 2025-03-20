@@ -1,0 +1,30 @@
+:: martial_law
+You order the military to take control of the streets. Curfews are imposed. Dissent is silenced. 
+
+The people are afraid, but the riots stop. 
+
+Some on the council warn that fear is not loyalty. 
+
+Then, a new crisis arises. Rebel leaders send an ultimatum:  
+**Relinquish control, or they will escalate.** 
+
+What will you do? 
+
+• [[Crush the rebellion completely|crush_rebellion]]  
+• [[Offer limited freedoms|limited_freedoms]]  
+
+---
+
+:: crush_rebellion
+You double down. The soldiers raid suspected rebel hideouts, executing leaders in secret trials. 
+
+For now, the city is yours. But the whispers never stop. 
+
+[[ending]]
+
+:: limited_freedoms
+You ease restrictions, hoping to regain trust. Some welcome the gesture. Others see it as weakness. 
+
+Tensions simmer beneath the surface. Stability is uncertain. 
+
+[[ending]]

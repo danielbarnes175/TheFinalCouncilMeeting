@@ -1,0 +1,25 @@
+:: reforms
+You turn inward, prioritizing the people's needs. Food is rationed fairly. Corrupt officials are removed. 
+
+At first, progress is slow. The revolutionaries remain restless. 
+
+Then, an opportunity arises: A popular rebel leader offers a truce. If you share power, they will support stability. 
+
+What will you do? 
+
+• [[Invite them into the government|share_power]]  
+• [[Refuse and hold firm|hold_power]]  
+
+:: share_power
+The city is no longer yours alone. The people have a voice. 
+
+Some of the council disapprove. But for now, peace holds. 
+
+[[ending]]
+
+:: hold_power
+You refuse to compromise. The people, once hopeful, turn against you. 
+
+The revolution reignites. Soon, the council falls. 
+
+[[ending]]

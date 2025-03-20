@@ -1,0 +1,19 @@
+:: start
+[[Start Game|start_game]]
+
+:: start_game
+sound.ambient.background.url: '../src/images/background.mp3'
+sound.ambient.background.description: 'background music'
+--
+{ambient sound: 'background'}
+The council chamber is filled with tension. The people are restless, and the city teeters on the brink of collapse.<br>
+
+The revolutionaries are at your doorstep.<br>
+
+The council members look to you for guidance.<br>
+
+What will you do?<br><br>
+
+• [[Enforce Martial Law|martial_law]]  
+• [[Seek Diplomatic Aid|diplomacy]]  
+• [[Focus on Internal Reforms|reforms]]  
