@@ -2,7 +2,7 @@
 [[Start Game|start_game]]
 
 :: start_game
-sound.ambient.background.url: '../src/images/background.mp3'
+sound.ambient.background.url: 'src/images/background.mp3'
 sound.ambient.background.description: 'background music'
 --
 {ambient sound: 'background'}
